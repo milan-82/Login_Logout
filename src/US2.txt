@@ -1,1 +1,4 @@
-As a user< i want to be able to logout from app
+As a user, I want to be able to logout from app
+
+logout should be on top right corner of the screen
+
